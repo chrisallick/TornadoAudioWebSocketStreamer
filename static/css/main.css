@@ -1,0 +1,6 @@
+img { display: block; }
+
+.clear:after { content: "."; display: block; height: 0; clear: both; visibility: hidden; }
+.clear {display: inline-block;}
+* html .clear {height: 1%;}
+.clear {display: block;}
