@@ -1,0 +1,14 @@
+Use pyaudio to record audio and then pack it into a base64 string and stream it to the web via WebSockets.
+
+On the front end it's a pure JavaScript implementation of the audio player.
+
+After making this I realized there might not actually be an application... huh :)
+
+1) run the python server
+$>python main.py
+
+2) open up chrome and navigate to http://localhost:8888
+
+3) O_O wait for it...
+
+4) wait, then start talking.
